@@ -1,4 +1,4 @@
-7703
+7704
 58D:\KNOWLEDGE\Project\Forkify\node_modules\svgo\lib\path.js133064306257488968 0
 99D:\KNOWLEDGE\Project\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest3.c133064306258724837 0
 60D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\set133064306266047147 1
@@ -36,7 +36,7 @@
 81D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\transformer-babel\src\config.js133064306255724869 0
 75D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\modules\es.error.cause.js133064306261874318 0
 97D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\internals\fix-regexp-well-known-symbol-logic.js133064306264412620 0
-33D:\KNOWLEDGE\Project\Forkify\dist133069562084826368 1
+33D:\KNOWLEDGE\Project\Forkify\dist133069632717065154 1
 76D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\es\instance\copy-within.js133064306260917510 0
 78D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\set\intersection.js133064306266166751 0
 100D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133064306258954071 0
@@ -77,7 +77,7 @@
 77D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\instance\filter-out.js133064306263914286 0
 73D:\KNOWLEDGE\Project\Forkify\node_modules\caniuse-lite\data\regions\AG.js133064306255974037 0
 72D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\es\string\pad-start.js133064306267681689 0
-39D:\KNOWLEDGE\Project\Forkify\index.html133069527402415768 0
+39D:\KNOWLEDGE\Project\Forkify\index.html133069619492327375 0
 80D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\string\virtual\sub.js133064306269296288 0
 72D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\math\acosh.js133064306256233170 0
 53D:\KNOWLEDGE\Project\Forkify\node_modules\@jridgewell133064306242696300 1
@@ -201,15 +201,15 @@
 80D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\modules\es.typed-array.find.js133064306262708313 0
 59D:\KNOWLEDGE\Project\Forkify\node_modules\csso\package.json133064306258106901 0
 78D:\KNOWLEDGE\Project\Forkify\node_modules\msgpackr-extract\src\.vs\slnx.sqlite133064306256741470 0
-45D:\KNOWLEDGE\Project\Forkify\src\js\config.js133067507028786537 0
+45D:\KNOWLEDGE\Project\Forkify\src\js\config.js133069629726866297 0
 66D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\escape.js133064306262917623 0
 78D:\KNOWLEDGE\Project\Forkify\node_modules\htmlnano\lib\modules\mergeScripts.js133064306256283010 0
 54D:\KNOWLEDGE\Project\Forkify\node_modules\domutils\lib133064306257000612 1
-49D:\KNOWLEDGE\Project\Forkify\src\js\controller.js133069559370196937 0
+49D:\KNOWLEDGE\Project\Forkify\src\js\controller.js133069632715895171 0
 54D:\KNOWLEDGE\Project\Forkify\node_modules\lmdb\LICENSE133064306256253101 0
 74D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual\typed-array\at.js133064306259900902 0
 74D:\KNOWLEDGE\Project\Forkify\node_modules\svgo\plugins\removeEmptyAttrs.js133064306258007237 0
-46D:\KNOWLEDGE\Project\Forkify\src\js\helpers.js133064371285052213 0
+46D:\KNOWLEDGE\Project\Forkify\src\js\helpers.js133069622210178014 0
 79D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\source-map\dist\types.js.flow133064306254130201 0
 70D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\es\weak-map\index.js133064306265728214 0
 62D:\KNOWLEDGE\Project\Forkify\node_modules\terser\lib\minify.js133064306257678336 0
@@ -226,7 +226,7 @@
 100D:\KNOWLEDGE\Project\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133064306259273003 0
 85D:\KNOWLEDGE\Project\Forkify\node_modules\@babel\highlight\node_modules\color-convert133064306255256436 1
 62D:\KNOWLEDGE\Project\Forkify\node_modules\json5\lib\index.d.ts133064306256611905 0
-44D:\KNOWLEDGE\Project\Forkify\src\js\model.js133069562083705134 0
+44D:\KNOWLEDGE\Project\Forkify\src\js\model.js133069628359309706 0
 73D:\KNOWLEDGE\Project\Forkify\node_modules\yaml\browser\types\timestamp.js133064306257618535 0
 80D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\number\is-safe-integer.js133064306266356115 0
 83D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\reflect\delete-property.js133064306261256373 0
@@ -234,9 +234,16 @@
 50D:\KNOWLEDGE\Project\Forkify\node_modules\boolbase133064306253831211 1
 89D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\package-manager\src\NodeResolverBase.js133064306257160066 0
 72D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual\dom-collections133064306266565416 1
-41D:\KNOWLEDGE\Project\Forkify\src\js\views133069522467228512 1
+41D:\KNOWLEDGE\Project\Forkify\src\js\views133069569419066734 1
 68D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\set\filter.js133064306264013948 0
 81D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\typed-array\to-reversed.js133064306269774682 0
+78D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual\symbol\description.js133064306261256373 0
+78D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\regexp\constructor.js133064306260867670 0
+58D:\KNOWLEDGE\Project\Forkify\src\js\views\addRecipeView.js133069631868511539 0
+70D:\KNOWLEDGE\Project\Forkify\node_modules\domhandler\lib\node.d.ts.map133064306255047140 0
+56D:\KNOWLEDGE\Project\Forkify\node_modules\supports-color133064306254498972 1
+80D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\string\virtual\italics.js133064306266455781 0
+84D:\KNOWLEDGE\Project\Forkify\node_modules\htmlnano\lib\modules\collapseWhitespace.js133064306255316240 0
 73D:\KNOWLEDGE\Project\Forkify\node_modules\caniuse-lite\data\regions\GN.js133064306261266338 0
 63D:\KNOWLEDGE\Project\Forkify\node_modules\xxhash-wasm\README.md133064306255804603 0
 76D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual\object\to-string.js133064306269944117 0
@@ -475,10 +482,10 @@
 75D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\internals\shared-store.js133064306268658415 0
 74D:\KNOWLEDGE\Project\Forkify\node_modules\@mischnic\json-sourcemap\LICENSE133064306253452466 0
 62D:\KNOWLEDGE\Project\Forkify\node_modules\electron-to-chromium133064306256352774 1
-66D:\KNOWLEDGE\Project\Forkify\node_modules\supports-color\readme.md133064306254568732 0
-50D:\KNOWLEDGE\Project\Forkify\node_modules\entities133064306256721536 1
-78D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\math\to-string-tag.js133064306269934151 0
 62D:\KNOWLEDGE\Project\Forkify\node_modules\postcss-value-parser133064306255475708 1
+50D:\KNOWLEDGE\Project\Forkify\node_modules\entities133064306256721536 1
+66D:\KNOWLEDGE\Project\Forkify\node_modules\supports-color\readme.md133064306254568732 0
+78D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\math\to-string-tag.js133064306269934151 0
 66D:\KNOWLEDGE\Project\Forkify\node_modules\terser\tools\terser.d.ts133064306258635140 0
 50D:\KNOWLEDGE\Project\Forkify\node_modules\escalade133064306255415926 1
 75D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\number\is-integer.js133064306266296315 0
@@ -775,10 +782,6 @@
 77D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\typed-array\map.js133064306267053781 0
 48D:\KNOWLEDGE\Project\Forkify\node_modules\stable133064306254459102 1
 66D:\KNOWLEDGE\Project\Forkify\node_modules\terser\dist\package.json133064306258366040 0
-70D:\KNOWLEDGE\Project\Forkify\node_modules\domhandler\lib\node.d.ts.map133064306255047140 0
-56D:\KNOWLEDGE\Project\Forkify\node_modules\supports-color133064306254498972 1
-80D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\string\virtual\italics.js133064306266455781 0
-84D:\KNOWLEDGE\Project\Forkify\node_modules\htmlnano\lib\modules\collapseWhitespace.js133064306255316240 0
 66D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\reporter-cli\src133064306256143468 1
 72D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\watcher\src\Watcher.hh133064306257170038 0
 90D:\KNOWLEDGE\Project\Forkify\node_modules\entities\lib\generated\decode-data-html.d.ts.map133064306256352774 0
@@ -1239,7 +1242,7 @@
 74D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\transformer-posthtml\lib133064306254349473 1
 62D:\KNOWLEDGE\Project\Forkify\node_modules\term-size\index.d.ts133064306255824541 0
 71D:\KNOWLEDGE\Project\Forkify\node_modules\weak-lru-cache\dist\index.cjs133064306253482371 0
-52D:\KNOWLEDGE\Project\Forkify\dist\index.f7626f62.css133069531410651359 0
+52D:\KNOWLEDGE\Project\Forkify\dist\index.f7626f62.css133069606043298687 0
 93D:\KNOWLEDGE\Project\Forkify\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133064306259721507 0
 74D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\instance\slice.js133064306268758082 0
 66D:\KNOWLEDGE\Project\Forkify\node_modules\v8-compile-cache\LICENSE133064306253432532 0
@@ -1414,7 +1417,7 @@
 77D:\KNOWLEDGE\Project\Forkify\node_modules\type-fest\source\literal-union.d.ts133064306256701604 0
 54D:\KNOWLEDGE\Project\Forkify\node_modules\terser\tools133064306258635140 1
 72D:\KNOWLEDGE\Project\Forkify\node_modules\lmdb\dependencies\lmdb-data-v1133064306253462431 1
-55D:\KNOWLEDGE\Project\Forkify\dist\index.e37f48ea.js.map133069562084826368 0
+55D:\KNOWLEDGE\Project\Forkify\dist\index.e37f48ea.js.map133069632717055155 0
 100D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\package.json133064306257708232 0
 68D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual\date\now.js133064306267362758 0
 66D:\KNOWLEDGE\Project\Forkify\node_modules\htmlparser2\lib\index.js133064306253990671 0
@@ -1498,7 +1501,7 @@
 76D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\json\to-string-tag.js133064306269914218 0
 89D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\transformer-posthtml\src\loadPlugins.js133064306254090334 0
 60D:\KNOWLEDGE\Project\Forkify\node_modules\tslib\tslib.es6.js133064306254409274 0
-56D:\KNOWLEDGE\Project\Forkify\dist\index.f7626f62.css.map133069531410661307 0
+56D:\KNOWLEDGE\Project\Forkify\dist\index.f7626f62.css.map133069606043328694 0
 76D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual\object\is-frozen.js133064306266266414 0
 67D:\KNOWLEDGE\Project\Forkify\node_modules\dotenv\lib\env-options.js133064306255326199 0
 72D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\array\reduce.js133064306268160085 0
@@ -1872,12 +1875,12 @@
 71D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\string\bold.js133064306260369342 0
 61D:\KNOWLEDGE\Project\Forkify\node_modules\js-tokens\README.md133064306254588669 0
 71D:\KNOWLEDGE\Project\Forkify\node_modules\source-map\dist\source-map.js133064306256940804 0
-59D:\KNOWLEDGE\Project\Forkify\node_modules\lmdb\package.json133064306259940779 0
 131D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\package.json133064306259372685 0
 69D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\instance\at.js133064306260020507 0
 82D:\KNOWLEDGE\Project\Forkify\node_modules\@swc\helpers\lib\_array_without_holes.js133064306254359434 0
 92D:\KNOWLEDGE\Project\Forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133064306254379374 0
 78D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\symbol\to-string-tag.js133064306269924182 0
+59D:\KNOWLEDGE\Project\Forkify\node_modules\lmdb\package.json133064306259940779 0
 75D:\KNOWLEDGE\Project\Forkify\node_modules\source-map\dist\source-map.min.js133064306257020537 0
 67D:\KNOWLEDGE\Project\Forkify\node_modules\posthtml-render\readme.md133064306254758105 0
 86D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\string\virtual\fontcolor.js133064306264621915 0
@@ -1988,7 +1991,6 @@
 87D:\KNOWLEDGE\Project\Forkify\node_modules\caniuse-lite\data\features\css-placeholder.js133064306260439106 0
 71D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual\error\index.js133064306265578714 0
 70D:\KNOWLEDGE\Project\Forkify\node_modules\sass\types\value\number.d.ts133064306262648516 0
-85D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\async-iterator\flat-map.js133064306264502314 0
 64D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\es\array\of.js133064306267532184 0
 70D:\KNOWLEDGE\Project\Forkify\node_modules\sass\types\value\string.d.ts133064306262708313 0
 78D:\KNOWLEDGE\Project\Forkify\node_modules\caniuse-lite\data\features\path2d.js133064306262359485 0
@@ -3590,7 +3592,7 @@
 71D:\KNOWLEDGE\Project\Forkify\node_modules\cosmiconfig\dist\types.js.map133064306257229840 0
 85D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual\typed-array\last-index-of.js133064306266814582 0
 66D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\map\some.js133064306268887650 0
-44D:\KNOWLEDGE\Project\Forkify\dist\index.html133069527403409921 0
+44D:\KNOWLEDGE\Project\Forkify\dist\index.html133069619493688551 0
 72D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\es\typed-array\fill.js133064306263844525 0
 56D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual133064306270871026 1
 73D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\weak-map\upsert.js133064306270562055 0
@@ -3761,8 +3763,6 @@
 71D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\es\number\to-fixed.js133064306269545452 0
 84D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\instance\last-index-of.js133064306266834517 0
 83D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\string\virtual\trim-end.js133064306270063716 0
-78D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\actual\symbol\description.js133064306261256373 0
-78D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\regexp\constructor.js133064306260867670 0
 72D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\stable\regexp\flags.js133064306264472413 0
 69D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\full\object\seal.js133064306268469051 0
 87D:\KNOWLEDGE\Project\Forkify\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js133064306255874366 0
@@ -4246,7 +4246,7 @@
 85D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\string\virtual\iterator.js133064306266615252 0
 88D:\KNOWLEDGE\Project\Forkify\node_modules\caniuse-lite\data\features\addeventlistener.js133064306255625206 0
 80D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\modules\es.string.pad-start.js133064306262469120 0
-51D:\KNOWLEDGE\Project\Forkify\dist\logo.726d37a8.png133068675509131787 0
+51D:\KNOWLEDGE\Project\Forkify\dist\logo.726d37a8.png133069606043558686 0
 74D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\modules\es.string.raw.js133064306262479084 0
 77D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\modules\es.string.repeat.js133064306262479084 0
 80D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\instance\match-all.js133064306267113583 0
@@ -5443,6 +5443,7 @@
 74D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\bigint\range.js133064306267990664 0
 81D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\async-iterator\drop.js133064306261346069 0
 81D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\async-iterator\find.js133064306264332901 0
+85D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\async-iterator\flat-map.js133064306264502314 0
 85D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\async-iterator\for-each.js133064306264691681 0
 81D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\async-iterator\from.js133064306264851155 0
 82D:\KNOWLEDGE\Project\Forkify\node_modules\core-js\features\async-iterator\index.js133064306265738181 0
@@ -7699,6 +7700,6 @@
 87D:\KNOWLEDGE\Project\Forkify\flowchart_features\forkify-architecture-recipe-loading.png133044272394956504 0
 76D:\KNOWLEDGE\Project\Forkify\flowchart_features\forkify-flowchart-part-1.png133044272394976438 0
 76D:\KNOWLEDGE\Project\Forkify\flowchart_features\forkify-flowchart-part-3.png133044272395056174 0
-54D:\KNOWLEDGE\Project\Forkify\dist\favicon.8b2f57bf.png133068675508602395 0
-52D:\KNOWLEDGE\Project\Forkify\dist\icons.21bad73c.svg133068675509121798 0
-51D:\KNOWLEDGE\Project\Forkify\dist\index.e37f48ea.js133069562084806356 0
+54D:\KNOWLEDGE\Project\Forkify\dist\favicon.8b2f57bf.png133069606043328694 0
+52D:\KNOWLEDGE\Project\Forkify\dist\icons.21bad73c.svg133069606043518680 0
+51D:\KNOWLEDGE\Project\Forkify\dist\index.e37f48ea.js133069632717045152 0
