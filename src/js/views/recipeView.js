@@ -125,7 +125,7 @@ class RecipeView extends View {
         </svg>
         <div class="recipe__quantity">${
           ing.quantity
-            ? new Fraction(parseFloat(ing.quantity)).toFraction(true)
+            ? new Fraction(parseFloat(ing.quantity).toFixed(2)).toFraction(true)
             : ''
         }</div>
         <div class="recipe__description">
