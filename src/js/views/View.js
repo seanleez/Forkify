@@ -45,7 +45,6 @@ export default class View {
       }
     });
   }
-
   renderSpinner() {
     const markup = `
       <div class="spinner">
