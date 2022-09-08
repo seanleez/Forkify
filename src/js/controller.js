@@ -8,14 +8,8 @@ import addRecipeView from './views/addRecipeView';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
+import { async } from 'regenerator-runtime';
 import { MODAL_CLOSE_SEC } from './config';
-
-if (module.hot) {
-  module.hot.accept();
-}
-
-// https://forkify-api.herokuapp.com/v2
-///////////////////////////////////////
 
 const controlRecipes = async function () {
   try {
@@ -131,7 +125,6 @@ const init = function () {
   recipeView.addHandlerAddBookmark(controlAddBookmark);
   searchView.addHanlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
-
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
