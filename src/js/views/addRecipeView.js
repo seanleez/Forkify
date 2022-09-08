@@ -20,6 +20,16 @@ class AddRecipeView extends View {
     this._overlay.classList.toggle('hidden');
   }
 
+  closeWindow() {
+    if (
+      !this._window.classList.contains('hidden') &&
+      !this._overlay.classList.contains('hidden')
+    ) {
+      this._window.classList.add('hidden');
+      this._overlay.classList.add('hidden');
+    }
+  }
+
   _addHanlerShowWindow() {
     this._btnOpen.addEventListener('click', this.toggleWindow.bind(this));
   }

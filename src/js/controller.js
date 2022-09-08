@@ -108,9 +108,15 @@ const controlAddRecipe = async function (newRecipe) {
     // Success message
     addRecipeView.renderSuccess();
 
+    // Render bookmark view
+    bookmarksView.render(model.state.bookmarks);
+
+    // Change ID in URL
+    window.history.pushState(null, '', `#${model.state.recipe.id}`);
+
     // Close form window
     setTimeout(function () {
-      addRecipeView.toggleWindow();
+      addRecipeView.closeWindow();
     }, MODAL_CLOSE_SEC * 1000);
   } catch (error) {
     console.error(error);
@@ -129,3 +135,10 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 init();
+
+// IMPROVEMENTS
+// 1.Pagination
+// 2.Sort search results by duration or number of ingredients
+// 3.Perform ingredient validation in view before submit the form
+// 4.Allow input more than 6 ingredients, separate in multiple fields
+// 5.Get nutrition data on each ingredient from spoonacular API

@@ -3,6 +3,11 @@ import icons from '../../img/icons.svg';
 export default class View {
   _data;
 
+  /**
+   * Control
+   * @param newRecipe {Object} ahihi
+   */
+
   render(data) {
     if (!data || (Array.isArray(data) && data.length === 0)) {
       return this.renderError();

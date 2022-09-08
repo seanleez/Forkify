@@ -360,14 +360,14 @@ body {
 .bookmarks {
   z-index: 10;
   width: 40rem;
-  visibility: hidden;
+  height: 0;
   opacity: 0;
   background-color: #fff;
   border-radius: 1rem;
-  padding: 1rem 0;
   transition: all .5s .2s;
   position: absolute;
   right: -1rem;
+  overflow: hidden;
   box-shadow: 0 .8rem 5rem 2rem #6155511a;
 }
 
@@ -389,8 +389,8 @@ body {
 }
 
 .bookmarks:hover, .nav__btn--bookmarks:hover + .bookmarks {
-  visibility: visible;
   opacity: 1;
+  height: auto;
 }
 
 .preview__link:link, .preview__link:visited {
