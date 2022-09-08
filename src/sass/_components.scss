@@ -90,6 +90,11 @@
   }
 }
 
+.btn--active {
+  background-image: $gradient;
+  transform: scale(1.07);
+}
+
 .btn--round {
   background-image: $gradient;
   border-radius: 50%;

@@ -38,7 +38,7 @@ class PaginationView extends View {
     }
 
     // Page 1, and there are NO other pages
-    return '';
+    return _generateMarkupCurrentPageButton();
   }
 
   _generateMarkupNextButton() {
@@ -47,10 +47,19 @@ class PaginationView extends View {
       <button data-goto="${
         currentPage + 1
       }" class="btn--inline pagination__btn--next">
-        <span>Page ${currentPage + 1}</span>
+        <span>${currentPage + 1}</span>
         <svg class="search__icon">
           <use href="${icons}#icon-arrow-right"></use>
         </svg>
+      </button>
+    `;
+  }
+
+  _generateMarkupCurrentPageButton() {
+    const currentPage = this._data.page;
+    return `
+      <button class="btn--inline btn--active">
+        <span>${currentPage}</span>
       </button>
     `;
   }
@@ -64,7 +73,7 @@ class PaginationView extends View {
         <svg class="search__icon">
           <use href="${icons}#icon-arrow-left"></use>
         </svg>
-        <span>Page ${currentPage - 1}</span>
+        <span>${currentPage - 1}</span>
       </button>
     `;
   }
