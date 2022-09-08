@@ -22,23 +22,31 @@ class PaginationView extends View {
 
     // Page 1, and there are other pages
     if (currentPage === 1 && numPages > 1) {
-      return this._generateMarkupNextButton();
+      return (
+        this._generateMarkupCurrentPageButton() +
+        this._generateMarkupNextButton()
+      );
     }
 
     // Last page
     if (currentPage === numPages && numPages > 1) {
-      return this._generateMarkupPrevButton();
+      return (
+        this._generateMarkupPrevButton() +
+        this._generateMarkupCurrentPageButton()
+      );
     }
 
     // Other pages
     if (currentPage > 1 && currentPage < numPages) {
       return (
-        this._generateMarkupPrevButton() + this._generateMarkupNextButton()
+        this._generateMarkupPrevButton() +
+        this._generateMarkupCurrentPageButton() +
+        this._generateMarkupNextButton()
       );
     }
 
     // Page 1, and there are NO other pages
-    return _generateMarkupCurrentPageButton();
+    return thís._generateMarkupCurrentPageButton();
   }
 
   _generateMarkupNextButton() {

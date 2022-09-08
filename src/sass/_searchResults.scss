@@ -19,14 +19,9 @@
     clear: both;
   }
 
-  &__btn {
-    &--prev {
-      float: left;
-    }
-    &--next {
-      float: right;
-    }
-  }
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
 }
 
 .copyright {
